@@ -40,12 +40,35 @@ LOTS OF NEWLINES
 
 
 
-## Table
+## Table 1
 | Col 1 | Col 2 | Col 3 | Col 4 |
 |-|-|-|-|
 | Ubuntu | Red Hat | Cent OS | Debian |
 | Blah | Blah | Blah | Blah |
 
+
+## Table 2
+<table>
+   <thead>
+      <tr>
+         <th>Header1</th>
+         <th>Header2</th>
+         <th>Header3</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td>data1</td>
+         <td>data2</td>
+         <td>data3</td>
+      </tr>
+      <tr>
+         <td>data11</td>
+         <td>data12</td>
+         <td>data13</td>
+      </tr>
+   </tbody>
+</table>
 
 Here's a link to [Google](http://www.google.com)
 
